@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549271994029",
+    "project_id": "manage-payment-app-backend",
+    "storage_bucket": "manage-payment-app-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549271994029:android:f21718fb0f2c0ab0d29024",
+        "android_client_info": {
+          "package_name": "com.example.manage_payment_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdY8ld5gyRECnnwX6wYlpoZl8y4AUl4xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
